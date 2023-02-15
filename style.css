@@ -1,0 +1,56 @@
+.content {
+    background-color: aqua;
+    width: 250px;
+    height: 50px;
+    margin: 0 auto;
+}
+.content-box {
+    margin-bottom: 5px;
+    width:200px;
+    height: 30px;
+    border: 5px solid #14810d;
+    margin: 0 auto;
+}
+.content-box-2{
+    width:191px;
+    height: 21px;
+    border: 5px solid #21d517;
+    margin: 0 auto;
+    text-align: center;
+}
+.content-span {
+    border: 1px solid black;
+}
+.span-circle {
+    position: absolute;
+    width: 1.8px;
+    height: 1.8px;
+    background-color: black;
+    border-radius: 50%;
+    margin-left: 88.2px;
+    margin-top: -14px;
+}
+.span-circle-hide{
+    display: none;
+
+}
+.two {
+    margin-left: 88.2px;
+    margin-top: -19.5px;
+}
+.two-hide {
+    display: none;
+}
+.three {
+    margin-left: 109px;
+}
+.three-hide {
+    display: none;
+}
+.four {
+    margin-left: 109px;
+    margin-top: -19.5px;
+}
+.four-hide {
+    display: none;
+}
